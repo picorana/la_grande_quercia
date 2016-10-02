@@ -1,0 +1,1 @@
+{"target_version": 11, "orientation": "sensorLandscape", "package": "com.lagrandequercia", "include_pil": false, "expansion": false, "name": "La Grande Quercia", "source": false, "icon_name": "La Grande Quercia", "version": "0.1", "layout": null, "permissions": ["VIBRATE"], "include_sqlite": false, "store": "none", "numeric_version": "1"}
